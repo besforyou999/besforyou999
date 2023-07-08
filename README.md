@@ -15,6 +15,9 @@
 - 로보메이션 단기 인턴 (안드로이드 앱 개발) @ ( 2021.07 ~ 2021.08 )
 - SSAFY 9기 Java/Web ( 2023.01 ~ 2023.06 )
 
+- Blog : https://besforyou.tistory.com/
+
+
 </div>
 
 <div align='left'>
