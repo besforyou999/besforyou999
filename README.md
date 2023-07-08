@@ -4,6 +4,9 @@
 
 ### Hello! I'm Sangmin Ju
 
+Blog : https://besforyou.tistory.com/  
+E-mail : besforyou2@gmail.com
+
 <br>
 
 <div align='left'>
@@ -14,9 +17,6 @@
 - 광운대학교 소프트웨어학부 응용소프트웨어전공
 - 로보메이션 단기 인턴 (안드로이드 앱 개발) @ ( 2021.07 ~ 2021.08 )
 - SSAFY 9기 Java/Web ( 2023.01 ~ 2023.06 )
-
-- Blog : https://besforyou.tistory.com/
-
 
 </div>
 
