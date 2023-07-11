@@ -18,6 +18,8 @@ E-mail : besforyou2@gmail.com
 - 로보메이션 단기 인턴 (안드로이드 앱 개발) @ ( 2021.07 ~ 2021.08 )
 - SSAFY 9기 Java/Web 1학기 수료 ( 2023.01 ~ 2023.06 )
 
+<br>
+
 </div>
 
 <div align='left'>
