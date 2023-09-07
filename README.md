@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30)  
 
-### Hello! I'm Sangmin Ju
 
 Blog : https://besforyou.tistory.com/  
 E-mail : besforyou2@gmail.com
@@ -14,7 +13,6 @@ E-mail : besforyou2@gmail.com
 ## About me
   
 
-- 광운대학교 소프트웨어학부 응용소프트웨어전공 ( 2016.03 ~ 2023.02 )
 - 로보메이션 단기 인턴 (안드로이드 앱 개발) @ ( 2021.07 ~ 2021.08 )
 
 <br>
