@@ -48,6 +48,10 @@ E-mail : besforyou2@gmail.com
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
+#### Database
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
+
 <br>
 
 ### 경험은 없으나, 이론적 지식이 있는 Skill Set
